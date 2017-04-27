@@ -1,0 +1,9 @@
+$this->l('Text I want to translate')
+
+Alt + 1 - Проекты
+Alt + 7 - Навигатор
+Ctrl + Alt + K - Форматирование
+Alt + P - удаленый хост
+Ctrl + Y - удалить строку
+Ctrl + D - копировать строку
+Alt + F12 - терминал
