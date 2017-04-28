@@ -1,4 +1,6 @@
 $this->l('Text I want to translate')
+$this->dependencies = array('paypal', 'blockcart');
+
 
 Alt + 1 - Проекты
 Alt + 7 - Навигатор
